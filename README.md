@@ -4,7 +4,7 @@ Animated text for React Native. Reveal a heading character by character, cycle t
 
 Try all 20 effects in the [NativeBits demo app for React Native](https://github.com/Rojithmuthaiya/nativebits-demo). The demo includes editable sample text, presets, and replay controls.
 
-![Android demo showing ExplosionText burst, reassemble, and loop](./docs/android-demo.gif)
+![NativeBits Animation Lab demo on Android](https://raw.githubusercontent.com/Rojithmuthaiya/nativebits/main/docs/android-demo.gif)
 
 - [Installation](#installation)
 - [Quick start](#quick-start)
